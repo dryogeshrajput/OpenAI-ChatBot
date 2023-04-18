@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "Enter OpenAI Key Here"
 
 # Set the page configuration
 st.set_page_config(page_title="OpenAI Chatbot", page_icon=":robot_face:", layout="wide", initial_sidebar_state="expanded")
